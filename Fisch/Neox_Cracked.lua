@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://you.whimper.xyz/spectrum"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader"))()
